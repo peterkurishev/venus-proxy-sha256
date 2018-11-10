@@ -45,7 +45,7 @@
 		bind_address: "0.0.0.0:8000",
 		
 		//	secret key
-		auth_key: "admin",
+		auth_key: "secret_key",
 		
 		// open browser
 		open_browser: false,
